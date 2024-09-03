@@ -1,0 +1,2 @@
+clang object.c
+a
